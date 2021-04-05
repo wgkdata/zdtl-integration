@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Simple integration between Zendesk and Trello. The main goal is to listen Zendesk tickets and everytime a new one is created make it become a new card in Trello.
+Simple integration between Zendesk and Trello. The main goal is to listen Zendesk Support and create a card in Trello everytime a new ticket is created.
 
 ## Project steps
 
