@@ -1,6 +1,5 @@
 import requests as r 
 import json as j
-import pprint as p
 from trello import Trello
 from zendesk import Zendesk
 
